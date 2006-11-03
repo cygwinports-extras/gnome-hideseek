@@ -1,0 +1,5 @@
+inherit gnome2
+
+DESCRIPTION="GNOME Preferences Hide and Seek"
+HOMEPAGE="http://hideseek.sourceforge.net/"
+SRC_URI="mirror://sourceforge/hideseek/${P}.tar.gz"
