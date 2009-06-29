@@ -1,4 +1,4 @@
 category: Gnome
-requires: cygwin GConf2 gtk2-x11 libX11_6
+requires: GConf2 gtk2-x11 libX11_6
 sdesc: "GNOME 2 Preferences Hide and Seek"
 ldesc: "GNOME 2 Preferences Hide and Seek"
